@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="41.612" height="41.612"/>
+  </defs>
+  <style type="text/css">
+	.st0{fill:none;stroke:#25336C;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#25336C;}
+	.st3{font-family:'DINCondensed-Bold';}
+	.st4{font-size:81.1733px;}
+	.st5{fill:#E22390;}
+	.st6{fill:#333366;}
+</style>
+  <g transform="matrix(1, 0, 0, 1, -1.318521, 0)">
+    <g transform="matrix(1, 0, 0, 1, 95.83934, -73.030861)"/>
+    <line class="st0" x1="146.187" y1="204.913" x2="231.671" y2="204.913" style=""/>
+    <rect x="-69.201" y="-8.444" class="st1" width="391.039" height="158.232" style=""/>
+    <text style="fill: rgb(37, 51, 108); font-family: DINCondensed-Bold; font-size: 81.1733px; white-space: pre;" x="24.684" y="183.846"><tspan x="24.684" y="183.846" style="font-size: 188.7px; word-spacing: 0px;">J</tspan><tspan style="fill: rgb(229, 26, 148); font-size: 188.7px; word-spacing: 0px;">2</tspan><tspan style="fill: rgb(31, 48, 109); font-size: 188.7px; word-spacing: 0px;">C</tspan></text>
+    <rect x="16.682" y="111.754" class="st1" width="250.115" height="73.553" style=""/>
+    <text class="st2 st3 st4" style="white-space: pre; font-size: 103.1px;" x="16.68" y="185.16"> </text>
+    <circle class="st6" cx="126.502" cy="205.329" r="8.906" style=""/>
+    <line class="st0" x1="20.5" y1="204.913" x2="105.984" y2="204.913" style=""/>
+  </g>
+</svg>
